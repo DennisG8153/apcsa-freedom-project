@@ -1,5 +1,5 @@
 # APCSA Freedom Project
-by X
+by Dennis Grigoryev
 
 ## Context
 The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
@@ -9,9 +9,9 @@ For my project, I am making X. This blog will walk through my process of indepen
 
 ## Links
 
-Product
+Product:
 
-Presentation
+Presentation:
 
 ## Implications
 X
