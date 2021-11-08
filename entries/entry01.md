@@ -1,5 +1,5 @@
 # Entry 1
-##### X/X/XX
+##### Nov. 08, 2021
 
 Text
 
