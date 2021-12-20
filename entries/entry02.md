@@ -2,7 +2,8 @@
 ##### 12/17/2021
 
 ## Starting with the Building...
-Working with Hugo for the last month has been interesting to say the least. The 
+   Working with Hugo for the last month has been interesting to say the least. The process of installing of the program was fairly straightforward. Following the tutorial of instalation again [(click here for the link)](https://gohugo.io/getting-started/installing) for the newest version of Hugo (which you can find [here](https://github.com/gohugoio/hugo/releases)), I realized that just learning the processes by reading was not going to benefit me in the long run. For this blog entry, I started off with building the basics for my website that I would be making with Hugo. 
+### Snipet of the Code
 ```C:\Hugo>cd Sites
 C:\Hugo\Sites>hugo new site lizardlegion.com
 Congratulations! Your new Hugo site is created in C:\Hugo\Sites\lizardlegion.com.
