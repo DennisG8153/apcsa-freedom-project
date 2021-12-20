@@ -1,8 +1,9 @@
-# Entry 2 - The Start of it All
+# Entry 2 - The Building of Website
 ##### 12/17/2021
 
-C:\Hugo>cd Sites
-
+## Starting with the Building...
+Working with Hugo for the last month has been interesting to say the least. The 
+```C:\Hugo>cd Sites
 C:\Hugo\Sites>hugo new site lizardlegion.com
 Congratulations! Your new Hugo site is created in C:\Hugo\Sites\lizardlegion.com.
 
@@ -16,7 +17,7 @@ Just a few more steps and you're ready to go:
 3. Start the built-in live server via "hugo server".
 
 Visit https://gohugo.io/ for quickstart guide and full documentation.
-
+```
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
