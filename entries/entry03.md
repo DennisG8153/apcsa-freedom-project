@@ -1,8 +1,9 @@
 # Entry 3
-##### 2/11/22
+##### 3/7/2022
 
-## Where We Start
-Over last the month and a half, I have been working on the first posts of the website while also figuring out how to connect the shell of a website I have to be hosted on GitHub. First running the theme from the website [click here for the terminal theme](https://themes.gohugo.io/themes/hugo-theme-terminal/),  
+## Where Did We Leave Off?
+
+With the last two months, I have slowly working on the intergration from my local desktop to a GitHub pages. It has been a difficult ongoing process to say the least, but it gave me more insight on what I need to work on in the next few days. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
