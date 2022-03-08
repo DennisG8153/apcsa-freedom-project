@@ -14,7 +14,7 @@ While the static set up was fairly straightforward and I used the documentation 
 
 Facing these challenges was not easy and I am still actively working on them as I am writing this. Using Google was very necessary in this step towards sucess. While on my end I would get the message that GitHub pages were working fine and I can access them through my own computer (the respritory link for the final project is [here](https://github.com/Sparkles1736/sparkles1736.github.io) **Note:** I have had to change and delete my files multiple times due to errors in downloading the wrong binaries) 
 ## ![alt t](../sep/status.png)
-Whenever I would try to add and push content from my D: drive (where I have my files stored now for better control and space reasons, thank you Google and [MiniTool](https://www.minitool.com/news/how-to-open-drive-in-cmd.html) for teaching me how to do so with my command prompt) the result that would show up on another users end when viewing the GitHub website itself, would see an error (shown below) instead of the client side website I would see myself (shown previously.)
+Whenever I would try to add and push content from my D: drive (where I have my files stored now for better control and space reasons, thank you Google and [MiniTool](https://www.minitool.com/news/how-to-open-drive-in-cmd.html) for teaching me how to do so with my command prompt) the result that would show up on another users end when viewing the GitHub website itself, would see an error (shown below) instead of the client side website I would see [myself](../sep/site1.png).
  ## ![text](../sep/result.png)
  
  ### My Next Steps
