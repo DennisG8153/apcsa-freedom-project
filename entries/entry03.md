@@ -16,7 +16,9 @@ Facing these challenges was not easy and I am still actively working on them as 
 ## ![alt t](../sep/status.png)
 Whenever I would try to add and push content from my D: drive (where I have my files stored now for better control and space reasons, thank you Google and [MiniTool](https://www.minitool.com/news/how-to-open-drive-in-cmd.html) for teaching me how to do so with my command prompt) the result that would show up on another users end when viewing the GitHub website itself, would see an error (shown below) instead of the client side website I would see myself (shown previously.)
  ## ![text](../sep/result.png)
- This is a problem I plan to tackle by the end of next week when I more throughly figure out and comprehend the work of [peaceiris](https://github.com/peaceiris/actions-gh-pages) and connect my work to GitHub and continue making progress towards my MVP. What I plan on working towards is connecting the two and adding content to make the wiki page A) more alive and B) more useful for the people seeking information.
+ 
+ ### My Next Steps
+This is a problem I plan to tackle by the end of next week when I more throughly figure out and comprehend the work of [peaceiris](https://github.com/peaceiris/actions-gh-pages) and connect my work to GitHub and continue making progress towards my MVP. What I plan on working towards is connecting the two and adding content to make the wiki page A) more alive and B) more useful for the people seeking information.
   
 [Previous](entry02.md) | [Next](entry04.md)
 
