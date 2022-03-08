@@ -18,7 +18,7 @@ Whenever I would try to add and push content from my D: drive (where I have my f
  ## ![text](../sep/result.png)
  
  ### My Next Steps
-This is a problem I plan to tackle by the end of next week when I more throughly figure out and comprehend the work of [peaceiris](https://github.com/peaceiris/actions-gh-pages) and connect my work to GitHub and continue making progress towards my MVP. What I plan on working towards is connecting the two and adding content to make the wiki page A) more alive and B) more useful for the people seeking information.
+This is a problem I plan to tackle by the end of next week when I more throughly figure out and comprehend the work of [peaceiris](https://github.com/peaceiris/actions-gh-pages) and connect my work to GitHub and continue making progress towards my MVP. What I plan on working towards is connecting the two and adding content to make the wiki page A) more alive and B) more useful for the people seeking information. Using time management, I will plan and use my time wisely to make sure I do connect the two without letting myself waste time on less important things: like the colors of the background and text.
   
 [Previous](entry02.md) | [Next](entry04.md)
 
