@@ -9,9 +9,9 @@ For my project, I am making X. This blog will walk through my process of indepen
 
 ## Links
 
-Product:
+Product: [Product](https:sparkles1736.github.io)
 
-Presentation:
+Presentation: [Presentation]()
 
 ## Implications
 X
